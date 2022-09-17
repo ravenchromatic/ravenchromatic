@@ -1,3 +1,4 @@
+while True:
 #  gotta get that INPUT!!!
 year = float(input('Enter a year: '))
 if year%100 == 0 and year%400 == 0:
